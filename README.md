@@ -1,2 +1,3 @@
 # Rubiks-Graphs
-Code to generate graphs using deep learning
+
+Code to develop graphs using deep learning methods. As graphs are the future of engineering and AI combined, it is only appropriate that we start developing models for it.
