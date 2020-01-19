@@ -1,3 +1,6 @@
+import tensorflow as tf
+from collections import namedtuple
+
 def base_transformer(inp, config, num_layers, scope = 'transformer'):
     with tf.variable_scope(scope):
         out = tf.expand_dims(inp, axis = 0)
